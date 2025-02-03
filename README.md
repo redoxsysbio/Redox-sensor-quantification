@@ -48,6 +48,9 @@ The repository is organised into folders:
 
 ## Live notebook instance
 
-Note that a live notebook instance to calculate signal parameters, using the
-[JupyterLite](https://jupyterlite.readthedocs.io/) framework, is provided here:
+For convenience, a live notebook instance to calculate signal parameters, using the
+[JupyterLite](https://jupyterlite.readthedocs.io/) framework, is provided. This does
+not require the setting up of a Python environment on your own computer and just runs as a
+web page in the browser.
+See here:
 https://redoxsysbio.github.io/signalparameters
