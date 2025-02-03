@@ -10,23 +10,23 @@ To set up your own computational environment in order to run the code in this re
 perform the following steps:
 
 1. Clone this repository:
-```shell
-git clone https://github.com/redoxsysbio/Redox-sensor-quantification.git 
-```
+    ```shell
+    git clone https://github.com/redoxsysbio/Redox-sensor-quantification.git 
+    ```
 
 2. Create a new Python environment, either using Anaconda 
   (`conda env create -n redox_sensors`) or the Python venv module
    (`python -m venv redox_sensors`). Activate the environment.
 
 3. Install the required Python packages:
-```shell
-pip install -r requirements.txt
-```
+    ```shell
+    pip install -r requirements.txt
+    ```
 
 4. Start jupyter-lab:
-```shell
-jupyter-lab 
-```
+    ```shell
+    jupyter-lab 
+    ```
 
 ## Repository contents
 
