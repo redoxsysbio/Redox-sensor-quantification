@@ -43,9 +43,6 @@ The repository is organised into folders:
   Open the notebook in Jupyter-Lab and execute the cells one-by-one by selecting the
   cell and pressing `Shift-Enter`.
 
-- **Excel**<br>
-  An Excel spreadsheet to calculate the signalling parameters.
-
 ## Live notebook instance
 
 For convenience, a live notebook instance to calculate signal parameters, using the
